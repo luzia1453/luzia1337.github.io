@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben BurakLuzia</h1>
-<h3 align="center">Sosyal Media Center Türkiye 🇹🇷</h3>
+<h3 align="center">Sosyal Media Center Türkiye 🇹🇷</h3>https://images.app.goo.gl/H2fKbSQcKkT57RcH9
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luzia1453&label=Profile%20views&color=0e75b6&style=flat" alt="luzia1453" /> </p>
 
